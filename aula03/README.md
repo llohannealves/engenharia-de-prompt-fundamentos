@@ -1,4 +1,4 @@
-##Reflexão: 
+*Reflexão:* 
 A divisão de tokens influencia diretamente a forma como a IA entende e responde a um comando, pois é através desses pequenos pedaços de texto que o modelo interpreta o significado da mensagem. Quando o texto é bem estruturado e claro, os tokens são organizados de maneira mais eficiente, facilitando a compreensão e resultando em respostas mais precisas. Por outro lado, instruções confusas ou mal divididas podem gerar interpretações ambíguas, impactando negativamente a qualidade da resposta.
 
 Além disso, o limite de tokens também afeta a profundidade da resposta, já que a IA precisa equilibrar o que foi recebido com o que será gerado. Isso mostra que não é apenas o conteúdo que importa, mas também como ele é escrito. Uma boa organização das ideias contribui para um melhor aproveitamento dos tokens, tornando a comunicação com a IA mais eficaz e assertiva.
